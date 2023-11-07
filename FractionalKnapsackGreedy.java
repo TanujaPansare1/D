@@ -66,3 +66,7 @@ public class FractionalKnapsackGreedy {
         System.out.println("Maximum value in the knapsack: " + maxValue);
     }
 }
+
+#P=60,100,120
+#W=10,20,30
+#c=50
