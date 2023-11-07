@@ -50,3 +50,8 @@ public class KnapsackDynamic {
 	}
 
 }
+
+
+#P=1256
+#W=2345
+#capacity=9,final cap=8
